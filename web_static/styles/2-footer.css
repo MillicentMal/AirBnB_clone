@@ -6,3 +6,7 @@ footer{
 		background:#00FF00;
 		height:60px;
 	}
+p {
+		text-align:center;
+		padding: 6px;
+	}	
