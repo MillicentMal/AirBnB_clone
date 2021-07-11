@@ -1,6 +1,6 @@
 body { margin: 0;
-       padding : 0
+       padding : 0;
+       colour: #484848;
+       font-size: 14px;
+       font-style: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
       }
-p { text-align:center;
-padding: 6px;
-}	
